@@ -5,7 +5,7 @@ This is a simple Gradio app that accepts a single text input and predicts whethe
 ## Usage
 
 1. Clone the repository or download the source code.
-2. Install the required dependencies by running `pip install -r requirements.txt`.
+2. Install the required dependencies by running `pip3 install -r requirements.txt`.
 3. Run the app by executing `python3 main.py` in your terminal.
 4. The Gradio app will open in your default web browser.
 5. Enter your text input in the provided text box and click the "Submit" button.
@@ -26,4 +26,4 @@ The app requires the following Python libraries:
 - Pandas
 - Scikit-learn
 
-You can install the required dependencies by running `pip install -r requirements.txt`.
+You can install the required dependencies by running `pip3 install -r requirements.txt`.
